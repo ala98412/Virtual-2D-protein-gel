@@ -33,7 +33,7 @@ Get Virtual 2D Gel on http://www.jvirgel.de/ automatically
         Generate All_fas.fas file by step 1 automatically, or rename your own file.
         
 
-        `Excute "Download_Protein_from_NCBI.exe" first, or name fasta file as "All_fas.fas"`
+        Excute "Download_Protein_from_NCBI.exe" first, or name fasta file as "All_fas.fas"
 
     This error message shows when All_fas.fas doesn't exist.
         
@@ -41,7 +41,7 @@ Get Virtual 2D Gel on http://www.jvirgel.de/ automatically
         If chromedrive.exe was located in C:\User\user\Desktop
         
 
-        `Input chromedriver's path: C:\User\user\Desktop`
+        Input chromedriver's path: C:\User\user\Desktop
 
         
     2-3. Get the picture of 2D gel, and MW and pI
