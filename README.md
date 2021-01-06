@@ -37,7 +37,7 @@ Get Virtual 2D Gel on http://www.jvirgel.de/ automatically
 
     This error message shows when All_fas.fas doesn't exist.
         
-    2-2. Input the path way of "chromedrive.exe"
+    2-2. Input the path way of "chromedrive.exe"  
         If chromedrive.exe was located in C:\User\user\Desktop
         
 
