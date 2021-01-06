@@ -38,14 +38,14 @@ Get Virtual 2D Gel on http://www.jvirgel.de/ automatically
     This error message shows when All_fas.fas doesn't exist.
         
     2-2. Input the path way of "chromedrive.exe"  
-        If chromedrive.exe was located in C:\User\user\Desktop
+            If chromedrive.exe was located in C:\User\user\Desktop
         
 
         Input chromedriver's path: C:\User\user\Desktop
 
         
     2-3. Get the picture of 2D gel, and MW and pI.  
-        This step will finish automatically.
+            This step will finish automatically.
         
 
         DevTools listening on ws://127.0.0.1:49738/devtools/browser/322c984d-6518-4c1c-8a0f-0c104eb55a6a
