@@ -62,5 +62,7 @@ Get Virtual 2D Gel on http://www.jvirgel.de/ automatically
            
         Save results as "2Dgel_result.txt"
         === Finish ===
-
+        
+3. Path of Output files
+    All files will output to "output" folder.
         
