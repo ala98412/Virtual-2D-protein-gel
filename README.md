@@ -44,7 +44,7 @@ Get Virtual 2D Gel on http://www.jvirgel.de/ automatically
         Input chromedriver's path: C:\User\user\Desktop
 
         
-    2-3. Get the picture of 2D gel, and MW and pI
+    2-3. Get the picture of 2D gel, and MW and pI.  
         This step will finish automatically.
         
 
